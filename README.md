@@ -18,25 +18,29 @@ Project status: Planning
 ## Wires
 
 ### Arduino IO
-* Steam button (Pullup)
-* Water button (Pullup)
-* Brew button (Pullup)
-* Heater SSR output
-* Solenoid SSR output
-* Pump SSR output
-* Pressure transducer Vref
-* Pressure transducer Vout
-* MAX31865/SSD1306 SPI CLK
-* MAX31865/SSD1306 SPI MISO
-* MAX31865/SSD1306 SPI MOSI
-* MAX31865 SPI CS0
-* MAX31865 SPI CS1
-* SSD1306 SPI CS2
-* MAX31865 RDY0
-* MAX31865 RDY1
-* Encoder SW (pullup)
-* Encoder DT (must be interrupt)
-* Encoder CLK (must be interrupt)
+* Encoder DT (must be interrupt) (D2)
+* Encoder CLK (must be interrupt) (D3)
+* Encoder SW (pullup) (D4)
+* MAX31865 SPI CS0 (D6)
+* MAX31865 SPI CS1 (D7)
+* SSD1306 SPI CS2 (D8)
+* MAX31865 RDY0 (D9)
+* MAX31865 RDY1 (D10)
+* MAX31865/SSD1306 SPI MOSI (D11)
+* MAX31865/SSD1306 SPI MISO (D12)
+* MAX31865/SSD1306 SPI CLK (D13)
+* Pressure transducer Vout (A0/D14)
+* Pressure transducer Vref (AREF)
+* Steam button (Pullup) (D16)
+* Water button (Pullup) (D17)
+* Brew button (Pullup) (D18)
+* Heater SSR output (D19)
+* Solenoid SSR output (D20)
+* Pump SSR output (D21)
+
+Unassigned:
+* D15/A1
+* D5
 
 ### Other IO
 * Boiler sensor +
