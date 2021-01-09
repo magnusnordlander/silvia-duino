@@ -11,7 +11,7 @@ Project status: Planning
 * 128x64 SPI OLED, SSD1306 controller
 * MIPAF1XX250PSAAX pressure transducer
 * Crydom D2425D Dual SSR (Controls heater and solenoid) (Requires >4V for control)
-* Crydom EZ240D5 SSR (Controls pump)
+* Crydom MCPC2425A Proportional SSR (Controls pump)
 * Some 5V power supply
 * Rotary encoder with switch
 
@@ -34,9 +34,9 @@ Project status: Planning
 * Steam button (Pullup) (D16)
 * Water button (Pullup) (D17)
 * Brew button (Pullup) (D18)
-* Heater SSR output (D19)
-* Solenoid SSR output (D20)
-* Pump SSR output (D21)
+* Pump SSR PWM output (A5/D19)
+* Heater SSR output (D20)
+* Solenoid SSR output (D21)
 
 Unassigned:
 * D15/A1
@@ -66,3 +66,4 @@ Unassigned:
 
 * MAX31865 * 2
 * BSS138 * 3
+* TLV2451 opamp (read more at https://create.arduino.cc/projecthub/Arduino_Scuola/build-a-simple-dac-for-your-arduino-4c00bd)
