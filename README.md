@@ -8,7 +8,7 @@ Project status: Planning
 * Arduino Nano 33 IoT
 * ETP-RT-4-24-PT100B - SMT Ring Terminal Probe -40 °C 250 °C Pt100, Variohm EuroSensor (boiler sensor)
 * ETP-RT-4-24-PT100B - SMT Ring Terminal Probe -40 °C 250 °C Pt100, Variohm EuroSensor (grouphead sensor)
-* 128x64 SPI OLED, SSD1306 controller, I2C connected
+* 128x64 SPI OLED, SSD1306 controller
 * MIPAF1XX250PSAAX pressure transducer
 * Crydom D2425D Dual SSR (Controls heater and solenoid) (Requires >4V for control)
 * Crydom EZ240D5 SSR (Controls pump)
@@ -24,15 +24,14 @@ Project status: Planning
 * Heater SSR output
 * Solenoid SSR output
 * Pump SSR output
-* Display I2C SCL
-* Display I2C SCK
 * Pressure transducer Vref
 * Pressure transducer Vout
-* MAX31865 SPI CLK
-* MAX31865 SPI MISO
-* MAX31865 SPI MOSI
+* MAX31865/SSD1306 SPI CLK
+* MAX31865/SSD1306 SPI MISO
+* MAX31865/SSD1306 SPI MOSI
 * MAX31865 SPI CS0
 * MAX31865 SPI CS1
+* SSD1306 SPI CS2
 * MAX31865 RDY0
 * MAX31865 RDY1
 * Encoder SW (pullup)
