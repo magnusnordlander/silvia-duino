@@ -12,7 +12,7 @@ Project status: Planning
 * MIPAF1XX250PSAAX pressure transducer
 * Crydom D2425D Dual SSR (Controls heater and solenoid) (Requires >4V for control)
 * Crydom MCPC2425A Proportional SSR (Controls pump)
-* Some 5V power supply
+* Some 9V power supply
 * Rotary encoder with switch
 
 ## Wires
@@ -67,3 +67,4 @@ Unassigned:
 * MAX31865 * 2
 * BSS138 * 3
 * TLV2451 opamp (read more at https://create.arduino.cc/projecthub/Arduino_Scuola/build-a-simple-dac-for-your-arduino-4c00bd)
+* 78M05 5V regulator
