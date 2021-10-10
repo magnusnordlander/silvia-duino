@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1248IPWR
+D 24-Bit, 2kSPS, 8-Ch Delta-Sigma ADC for Precision Sensor Measurement
+K
+F http://www.ti.com/lit/gpn/ADS1248
+$ENDCMP
+#
+#End Doc Library

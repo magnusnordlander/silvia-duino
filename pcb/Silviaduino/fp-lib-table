@@ -1,3 +1,6 @@
 (fp_lib_table
   (lib (name teensy)(type KiCad)(uri ${KIPRJMOD}/teensy.pretty-master)(options "")(descr ""))
+  (lib (name ttgo)(type KiCad)(uri ${KIPRJMOD}/ttgo)(options "")(descr ""))
+  (lib (name ads1248)(type KiCad)(uri ${KIPRJMOD}/ads1248)(options "")(descr ""))
+  (lib (name portenta)(type KiCad)(uri ${KIPRJMOD}/UAMP-KiCAD-Footprints-master/Arduino.pretty)(options "")(descr ""))
 )

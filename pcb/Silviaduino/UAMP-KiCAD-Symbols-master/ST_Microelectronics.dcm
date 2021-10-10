@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VNH3SP30-E
+D Full Bridge Motor Driver, 41V, 30A, -40 to 150C, MultiPowerSO-30
+K full-bridge h-bridge
+F https://www.st.com/resource/en/datasheet/vnh3sp30-e.pdf
+$ENDCMP
+#
+#End Doc Library

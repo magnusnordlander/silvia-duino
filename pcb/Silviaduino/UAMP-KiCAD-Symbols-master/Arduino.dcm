@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Portenta_H7
+F https://content.arduino.cc/assets/Arduino-PortentaH7-schematic-V1.0.pdf
+$ENDCMP
+#
+#End Doc Library
