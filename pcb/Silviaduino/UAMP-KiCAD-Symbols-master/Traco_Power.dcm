@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEN-30-2412WIN
+F https://assets.tracopower.com/20190919075148/TEN30WIN/documents/ten30win-datasheet.pdf
+$ENDCMP
+#
+$CMP TMPW10
+F https://www.tracopower.com/sites/default/files/products/datasheets/tmpw10_datasheet.pdf
+$ENDCMP
+#
+$CMP TMPW25
+F https://www.tracopower.com/sites/default/files/products/datasheets/tmpw25_datasheet.pdf
+$ENDCMP
+#
+$CMP TMPW50
+F https://www.tracopower.com/sites/default/files/products/datasheets/tmpw50_datasheet.pdf
+$ENDCMP
+#
+$CMP TSR1E
+F https://www.tracopower.com/sites/default/files/products/datasheets/tsr1e_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

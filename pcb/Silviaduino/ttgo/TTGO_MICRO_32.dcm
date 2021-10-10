@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TTGO_MICRO_32
+D The micro-32 comes in two modules, one with a ceramic antenna and the other with an IPEX antenna. The micro-32 is configured with 4 MB SPI flash Micro-32module
+K
+F https://github.com/LilyGO/TTGO-Micro32-V2.0/raw/master/Datasheet/micro32%202020.3.4(1).pdf
+$ENDCMP
+#
+#End Doc Library

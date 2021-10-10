@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/teensy_library-master/teensy.lib)(options "")(descr ""))
+  (lib (name ads1247)(type Legacy)(uri ${KIPRJMOD}/ads1247/ADS1247IPWR.lib)(options "")(descr ""))
+  (lib (name ttgo)(type Legacy)(uri ${KIPRJMOD}/ttgo/TTGO_MICRO_32.lib)(options "")(descr ""))
+  (lib (name ads1248)(type Legacy)(uri ${KIPRJMOD}/ads1248/ADS1248IPWR.lib)(options "")(descr ""))
+  (lib (name portenta)(type Legacy)(uri ${KIPRJMOD}/UAMP-KiCAD-Symbols-master/Arduino.lib)(options "")(descr ""))
+)

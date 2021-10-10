@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP APX803-29-SOT23
+D 3-PIN MICROPROCESSOR RESET CIRCUIT
+K APX803-29-SOT23
+F https://www.mouser.com/ds/2/115/APX803_D-86185.pdf
+$ENDCMP
+#
+#End Doc Library

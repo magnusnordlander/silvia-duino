@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3001
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21293C.pdf
+$ENDCMP
+#
+$CMP MCP4716
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22272C.pdf
+$ENDCMP
+#
+#End Doc Library

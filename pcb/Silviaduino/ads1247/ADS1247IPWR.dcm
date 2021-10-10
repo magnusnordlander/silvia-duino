@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1247IPWR
+D 24-Bit, 2kSPS, 4-Ch Delta-Sigma ADC With PGA, Vref and 2x IDACs for Precision Sensor Measurement
+K
+F http://www.ti.com/lit/gpn/ADS1247
+$ENDCMP
+#
+#End Doc Library
