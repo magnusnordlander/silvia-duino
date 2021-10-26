@@ -8,7 +8,7 @@ Project status: Planning
 ### PCB
 * Arduino Portenta H7
 * ADS1220 (for RTDs)
-* HT7550 (5V LDO)
+* 78S05 (5V regulator)
 * HT7533 (3V3 LDO)
 * 2N7002 (for regular SSRs)
 * MCP6002 (for amplifying Portenta DAC to 5V)
@@ -28,3 +28,8 @@ Project status: Planning
 * MIPAF1XX250PSAAX pressure transducer
 * Some 12V power supply
 * Rotary encoder with switch
+
+## Reference materials
+
+* https://electronics.stackexchange.com/questions/435550/best-practice-on-providing-avdd-and-dvdd-from-single-source
+* https://electronics.stackexchange.com/questions/185306/analog-power-ground-planes-doubts/185320#185320
