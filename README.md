@@ -16,8 +16,6 @@ Project status: Planning
 * Coin cell battery holder (for RTC, because why not)
 
 ### Around the machine
-* Adafruit PT100 RTD Temperature Sensor Amplifier - MAX31865 (boiler sensor)
-* Adafruit PT100 RTD Temperature Sensor Amplifier - MAX31865 (grouphead sensor)
 * ETP-RT-4-24-PT100B - SMT Ring Terminal Probe -40 °C 250 °C Pt100, Variohm EuroSensor (boiler sensor)
 * ETP-RT-4-24-PT100B - SMT Ring Terminal Probe -40 °C 250 °C Pt100, Variohm EuroSensor (grouphead sensor)
 * 128x64 SPI OLED, SSD1309 controller
@@ -26,8 +24,8 @@ Project status: Planning
 	* Crydom EZ240D5
 	* Crydom MCPC2450A (proportional SSR)
 * MIPAF1XX250PSAAX pressure transducer
-* Some 12V power supply
-* Rotary encoder with switch
+* Mean-Well APV-8-12 (12V power supply)
+* KY-040 Rotary Encoder with switch
 
 ## Reference materials
 
